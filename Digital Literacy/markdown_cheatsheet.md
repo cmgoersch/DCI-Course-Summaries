@@ -231,5 +231,3 @@ Ergebnis:
 <div style="color: red;">Das ist ein roter Text.</div>
 
 ---
-
-Das war eine grundlegende Übersicht über die Markdown-Syntax. Du kannst mit dieser Syntax ganz einfach ansprechende Texte erstellen!
