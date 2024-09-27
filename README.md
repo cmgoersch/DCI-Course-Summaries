@@ -12,4 +12,5 @@ This repository contains my personal notes and summaries from the DCI (Digital C
 
 This repository is for personal use only.
 
-Lol
+Lol2
+
